@@ -39,7 +39,7 @@ The **NZC Token** has been verified for stability and reliability through a secu
 
 ## **Contact**
 
-- **Website**: [GESIA Official Website](https://gesia.com)  
-- **Support**: [support@gesia.com](mailto:support@gesia.com)  
-- **Social Media**: [Twitter](https://twitter.com/gesia) | [LinkedIn](https://linkedin.com/company/gesia)
+- **Website**: [GESIA Official Website](https://www.gesia.io)  
+- **Support**: [support@gesia.com](mailto:support@gesia.io)  
+- **Social Media**: [X-Twitter](https://x.com/gecavengers) | [LinkedIn](https://www.linkedin.com/company/gesia)
 
