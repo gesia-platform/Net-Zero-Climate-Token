@@ -33,7 +33,7 @@ GESIA's **NZC Token** leverages blockchain technology to transparently manage ca
 
 ## **Security and Audit**
 
-The **NZC Token** has been verified for stability and reliability through a security audit conducted by **CertiK**, ensuring a safe financial ecosystem.
+The **NZC Token** has been verified for stability and reliability through a security audit conducted by [**CertiK**](https://github.com/gesia-platform/Net-Zero-Climate-Token/blob/main/audit/REP-final-20241205T164924Z.pdf), ensuring a safe financial ecosystem.
 
 ---
 
